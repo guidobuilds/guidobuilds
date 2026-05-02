@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm a product & engineering-focused builder
 
-<!--
-**guidobuilds/guidobuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently focused on exploring how AI can improve **product development workflows and engineering productivity**.
 
-Here are some ideas to get you started:
+## 🛠️ Stack
+`Python (FastAPI)` · `TypeScript` · `React` · `Tailwind`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Interests
+- AI tools for developers and product teams  
+- Workflow optimization & productivity  
+- System design and scalable architectures  
+
+## ⚡ Approach
+Practical, iterative, and focused on real-world usefulness.
